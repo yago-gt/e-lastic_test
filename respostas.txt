@@ -1,0 +1,18 @@
+* Quais tecnologias usou?
+Eu usei as seguintes tecnologias:
+	linux 5.10.2-2-MANJARO
+	php 7.4.13
+	php-imagick 3.4.4-8
+	html2pdf 5.2
+	phpmailer 6.2
+	php-gd 7.4.13-1
+
+
+* Quais as maiores dificuldades?
+O mais dificil foi fazer o PDF, eu tive alguns erros, eu testei com diferentes livrarias, e o pdf não ficava do mesmo jeito que no email. 
+Tive que resolver os erros e fazer alguns ajustes no código HTML.
+Tambem foi dificil a barra de progresso porque por problemas de compatibilidade já que tanto o email como o pdf não suportan todas os estilos disponiveis no css.
+
+
+* O que não conseguiu fazer e o motivo
+Eu não consegui fazer a barra de progresso por problemas de compatibilidade do css e por falta de tempo.
